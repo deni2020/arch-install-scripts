@@ -3,4 +3,9 @@ arch-chroot
 genfstab
 pacstrap
 doc/*.8
-arch-install-scripts-*.tar.gz*
+arch-install-scripts-*.tar.*
+
+src/
+srcdir/
+pkg/
+pkgdir/
